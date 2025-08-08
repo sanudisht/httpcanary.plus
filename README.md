@@ -4,11 +4,10 @@
   <h4>HttpCanary+ Full Info</h4>
   <pre>
 Base App: HttpCanary v3.3.6
-Type: Modified APK
-Version: HttpCanary+ (v3.3.6 MOD)
 Platform: Android (7.0 and up)
-Root: Not required
+Root: Not required, but required for certificate.
 Status: Stable Release
+Released : No
 
 - What is HttpCanary+?
 
@@ -39,16 +38,6 @@ introducing new modifications that make it superior to other HttpCanary mods ava
 
 > Compatibility Optimized
   - Works smoothly on Android 7 to 13, even on lower-end phones.
-
-- Legal Disclaimer
-
-This software is intended strictly for **educational**, **debugging**, and **research** purposes.
-You may only capture and inspect traffic from apps you own or have permission to analyze.
-
-Do NOT use HttpCanary+ for malicious purposes, data theft, or unauthorized spying.
-
-By using this application, you agree that the developer (Sanu) is not responsible for any damage,
-data loss, legal issues, or misuse resulting from your actions. Use at your own risk.
 
 - Build Info
 Name      : HttpCanary+
