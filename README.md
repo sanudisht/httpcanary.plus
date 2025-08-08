@@ -1,7 +1,6 @@
 <h4>Owner : Sanu</h4>
   <h4>Discord : narpyclips</h4>
   
-  <h4>What is HttpCanary+</h4>
   <pre>
 HttpCanary+ is a modified and enhanced version of the original HttpCanary v3.3.6 app.
 HttpCanary is a powerful network packet capture and inspection tool used by developers,
