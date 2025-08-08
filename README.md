@@ -51,10 +51,6 @@ By using this application, you agree that the developer (Sanu) is not responsibl
 data loss, legal issues, or misuse resulting from your actions. Use at your own risk.
 
 - Build Info
-
 Name      : HttpCanary+
-Flavor   : GALAX_10001
-Modded by : Sanu
-
-Enjoy debugging smartly, safely, and stealthily.
+Flavor   : BUILD_10001
   </pre>
