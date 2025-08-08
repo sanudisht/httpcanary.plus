@@ -25,19 +25,14 @@ introducing new modifications that make it superior to other HttpCanary mods ava
 - Main Features
 
 > Based on HttpCanary v3.3.6
-  - Retains all core functionalities of the official app.
-
+  
 > VPN Detection Bypass
-  - Bypasses security mechanisms in apps that block packet sniffers.
 
 > Anti-Detection Patches
-  - Evades detection by apps that use anti-sniffer or tamper detection.
 
 > Works Without Root
-  - Uses local VPN method; no root required.
 
 > Compatibility Optimized
-  - Works smoothly on Android 7 to 13, even on lower-end phones.
 
 - Build Info
 Name      : HttpCanary+
