@@ -28,12 +28,6 @@ introducing new modifications that make it superior to other HttpCanary mods ava
 > Based on HttpCanary v3.3.6
   - Retains all core functionalities of the official app.
 
-> Pro Features Fully Unlocked
-  - All premium tools, decoders, and plugins are enabled.
-
-> Ads Removed
-  - No interruptions or trackers.
-
 > VPN Detection Bypass
   - Bypasses security mechanisms in apps that block packet sniffers.
 
@@ -45,21 +39,6 @@ introducing new modifications that make it superior to other HttpCanary mods ava
 
 > Compatibility Optimized
   - Works smoothly on Android 7 to 13, even on lower-end phones.
-
-- How HttpCanary+ is Better Than Other Mods
-
-- Not just Pro unlocked – includes VPN detection bypass.
-- Improved plugin support and decoding stability.
-- Removed all telemetry and background activity.
-- More reliable than cracked versions with broken features.
-- Clean base from official v3.3.6 release.
-
-- Use Cases
-
-- Capture HTTP/HTTPS packets from apps and games.
-- Debug REST APIs and webhooks.
-- Analyze requests/responses from encrypted or protected traffic.
-- Reverse engineering or behavior analysis for educational purposes.
 
 - Legal Disclaimer
 
